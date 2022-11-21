@@ -1,0 +1,8 @@
+#!/bin/python3
+from sense_hat import SenseHat
+
+sense = SenseHat()
+
+e = (255, 255, 255)
+l = (174, 255, 0)
+m = (65, 130, 70)
